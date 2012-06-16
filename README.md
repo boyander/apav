@@ -1,10 +1,9 @@
-#These are the lab assignments of "Algorísmia i Programació audiovisual"
-####Universitat Politècnica de Catalunya
-####EET 2012
+#Algorísmia i Programació audiovisual
+####Universitat Politècnica de Catalunya - EET 2012
 
 Developed by
 ------------
-- (Marc Pomar Torres)[boyander@gmail.com]
+- [Marc Pomar Torres](boyander@gmail.com)
 - Laura Cotrina Barrios
 
 Requirments
